@@ -3,7 +3,7 @@ body {
     width: 100%;
     height: 527%;
     overflow-x:hidden;
-    background: #f3f3f3;
+    background: #ffffff;
 }
 header{
     display: flex;
@@ -47,7 +47,7 @@ header  .logo{
     font-style: normal;
     font-weight: 400;
     font-size:130%;
-    color: #434242;
+    color: #ffffff;
 }
 .main_info h2{
     position: absolute;
@@ -57,7 +57,7 @@ header  .logo{
     font-style: normal;
     font-weight: 400;
     font-size:200%;
-    color: #434242;
+    color: #ffffff;
 }
 .main_info .list3{
     position:absolute;
@@ -70,7 +70,7 @@ header  .logo{
     font-weight: 400;
     font-size: 140%;  
     line-height: 200%;
-    color: #414040;
+    color: #ffffff;
 }
 main h1{
     display: flex;
@@ -81,7 +81,7 @@ main h1{
     font-style: normal;
     font-weight: 400;
     font-size:200%;
-    color: #434242;
+    color: #ffffff;
 }
 footer{
     position:absolute;
