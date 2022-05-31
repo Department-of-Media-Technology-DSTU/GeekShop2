@@ -35,18 +35,6 @@ header  .logo{
 .picphone{   
     width: 10.5%;
 }
-.mail{
-    display: flex;
-    position: absolute;
-    align-items: center;
-    justify-items: flex-start;
-    left: 83.17%;
-    top: 14.0%;
-}
-.picmail{
-    width: 12.5%;
-
-}
 .number{
     font-family: 'Calibri';
     font-style: normal;
