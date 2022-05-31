@@ -47,7 +47,7 @@ header  .logo{
     font-style: normal;
     font-weight: 400;
     font-size:130%;
-    color: #ffffff;
+    color: #f3f3f3;
 }
 .main_info h2{
     position: absolute;
@@ -57,7 +57,7 @@ header  .logo{
     font-style: normal;
     font-weight: 400;
     font-size:200%;
-    color: #ffffff;
+    color: #f3f3f3;
 }
 .main_info .list3{
     position:absolute;
@@ -70,7 +70,7 @@ header  .logo{
     font-weight: 400;
     font-size: 140%;  
     line-height: 200%;
-    color: #ffffff;
+    color: #f3f3f3;
 }
 main h1{
     display: flex;
@@ -81,7 +81,7 @@ main h1{
     font-style: normal;
     font-weight: 400;
     font-size:200%;
-    color: #ffffff;
+    color: #f3f3f3;
 }
 footer{
     position:absolute;
